@@ -1,6 +1,5 @@
 <x-app-layout>
     <div class="bg-white py-24 sm:py-28">
-        {{ var_dump($monthly)}}
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-4xl text-center">
                 <p class="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl">Choose a plan</p>
